@@ -2,5 +2,10 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/admin/Documents/ios/leetCode/1.%20Two%20Sum/TwoSum.playground#CharacterRangeLen=29&amp;CharacterRangeLoc=138&amp;EndingColumnNumber=2&amp;EndingLineNumber=7&amp;StartingColumnNumber=0&amp;StartingLineNumber=6&amp;Timestamp=671486984.850798"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
